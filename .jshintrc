@@ -1,0 +1,16 @@
+{
+  "globals": {
+    "it": true,
+    "describe": true,
+    "before": true,
+    "after": true,
+    "exports": true,
+    "window": true,
+    "document": true,
+    "Platform": true
+  },
+  "eqnull": true,
+  "node": true,
+  "unused": true,
+  "undef": true
+}

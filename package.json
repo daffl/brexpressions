@@ -1,0 +1,34 @@
+{
+  "name": "brexpressions",
+  "version": "0.0.1",
+  "description": "Grammar and parser for breezy expressions in brackets.",
+  "main": "lib/parser.js",
+  "scripts": {
+    "test": "grunt test --stack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daffl/brexpressions.git"
+  },
+  "keywords": [
+    "html5",
+    "templating",
+    "grammar",
+    "expressions",
+    "breezy"
+  ],
+  "author": "David Luecke <daff@neyeon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daffl/brexpressions/issues"
+  },
+  "homepage": "https://github.com/daffl/brexpressions",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-peg": "^1.5.0",
+    "grunt-release": "^0.7.0",
+    "grunt-simple-mocha": "^0.4.0"
+  }
+}
