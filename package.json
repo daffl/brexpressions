@@ -1,6 +1,6 @@
 {
   "name": "brexpressions",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Grammar and parser for breezy expressions in brackets.",
   "main": "lib/parser.js",
   "scripts": {
